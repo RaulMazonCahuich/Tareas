@@ -78,12 +78,5 @@ public class Fraccion{
 
     }//Decimal
 
-/*Definir las operaciones definidas en el TDA
-    
 
-
-    restar()
-
-
-    potencia()*/
 }
